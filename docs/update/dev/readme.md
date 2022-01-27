@@ -1,6 +1,46 @@
+## alpha <Badge text="Ver:3.2.0"/>
+### [新增数据表]<br>
++ <数据>record_user_skill<br>
+   >[user]用户<br>
+   >[skill]技能<br>
+   >[wait]冷却
+### [修改数据表]<br>
++ <数据>玩家技能 :point_right: data_user_skill<br>
+   >[QQ]	修改名称[user]	修改类型[VARCHAR(36)]<br>
+	>[技能]	修改名称[skill]<br>
+	>[时间]	删除字段<br>
+	>[学习]	修改名称[learn]<br>
+	>[次数]	修改名称[count]
++ <数据>NPC对话记录
+	>[obj]	修改名称[user]	修改类型[VARCHAR(36)]
++ <数据>传送数据
+	>[QQ]	修改名称[user]	修改类型[VARCHAR(36)]
++ <数据>玩家NPC数据
+	>[QQ]	修改名称[user]	修改类型[VARCHAR(36)]
++ <数据>钱庄数据
+	>[QQ]	修改名称[user]	修改类型[VARCHAR(36)]	
++ <数据>单人副本打怪 :point_right: [副本打怪]
+	>[subtype]	新增字段<br>
+	>[obj]		修改类型[VARCHAR(36)]
++ <数据>单人副本数据 :point_right: [副本数据]
+	>[subtype]	新增字段<br>
+	>[obj]		修改类型[VARCHAR(36)]
++ <数据>单人副本记录 :point_right: [副本记录]
+	>[obj]		修改类型[VARCHAR(36)]
++ <系统>单人副本地图 :point_right: [副本地图]
++ <系统>单人副本配置 :point_right: [副本配置]
+	>[limit_user]	新增字段
+### [新增事件消息]<br>
++ 新增 `玩家击杀怪物`[type=11] <br>
++ 新增 `玩家副本状态`[type=12] <br>
++ 新增 `玩家学习技能`[type=13] <br>
++ 新增 `玩家使用物品`[type=14] <br>
++ 新增 `玩家任务操作`[type=15] <br>
++ 新增 `玩家商店操作`[type=16] <br>
+
 ## 2021-04-24 <Badge text="Ver:3.0.1"/>
-### [新增]<br>
-+ 新增 玩家事件消息 `玩家死亡惩罚`[type=10] <br>
+### [新增事件消息]<br>
++ 新增 `玩家死亡惩罚`[type=10] <br>
 
 ## 2021-04-06 <Badge text="Ver:3.0.1"/>
 ### [新增]<br>
