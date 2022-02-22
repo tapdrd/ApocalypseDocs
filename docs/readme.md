@@ -12,6 +12,6 @@ features:
   details: 采用本地SQLite3储存数据  支持开发拓展插件
 - title: 用户交流群
   details: 83466116
-footer: Copyright © 2017-present | 天启幻境 | 浙ICP备18054454号-1
+footer: Copyright © 2017 - Present | 天启幻境 | 浙ICP备18054454号-1
 ---
 

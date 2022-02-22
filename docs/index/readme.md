@@ -1,14 +1,3 @@
-### 服务器推荐
-<hr>
-<a href='https://cloud.tencent.com/act/cps/redirect?redirect=1077&cps_key=55fd9d811f5203b0742169fa31102df4&from=console'>
-【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元
-</a>
-<br>
-<a href='https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=x4u0utxu'>
-【阿里云】新用户低至0.6折起，香港与海外服务器最低24元/月起
-</a>
-<hr>
-
 ::: theorem 介绍
 天启幻境II是一款开放式的框架<br>
 他并非特某一个游戏，你可以用它来开发各种各样的游戏<br>
@@ -71,4 +60,4 @@ plugin.db   -> 拓展数据库(用于存放 `拓展记录的数据`
 
 ---
 
-**©apocalypse 2017-present**
+**©apocalypse 2017 - Present**

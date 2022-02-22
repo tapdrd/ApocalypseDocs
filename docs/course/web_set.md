@@ -1,15 +1,3 @@
-### 服务器推荐
-
-<hr>
-<a href='https://cloud.tencent.com/act/cps/redirect?redirect=1077&cps_key=55fd9d811f5203b0742169fa31102df4&from=console'>
-【腾讯云】云产品限时秒杀，爆款1核2G云服务器，首年74元
-</a>
-<br>
-<a href='https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=x4u0utxu'>
-【阿里云】新用户低至0.6折起，香港与海外服务器最低24元/月起
-</a>
-<hr>
-
 #### 提示
 
 如果你是家用电脑, 请先下载花生壳等工具, 使外网可以访问你的IP
