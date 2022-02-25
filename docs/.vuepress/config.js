@@ -119,6 +119,7 @@ var config = {
                 title: '变量',
                 collapsable: false,
                 children: [
+                    ['/variable/fun/', '功能'],
                     ['/variable/global/', '全局']
                 ]
             }, {
@@ -133,8 +134,8 @@ var config = {
                 title: '更新日志',
                 collapsable: false,
                 children: [
-
-                    ['/update/', '3.1.0'],
+                    ['/update/', '3.2.0'],
+                    ['/update/3.1.0', '3.1.0'],
                     ['/update/3.0.3', '3.0.3'],
                     ['/update/3.0.2', '3.0.2'],
                     ['/update/3.0.1', '3.0.1'],
