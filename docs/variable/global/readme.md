@@ -1,6 +1,6 @@
-### 全局变量
+## 全局变量
 
-#### 玩家信息
+### 玩家信息
 ~~~
 <Apo:qq,type=attr,msg=qq>
 <Apo:qq,type=attr,msg=VIP>
@@ -36,17 +36,17 @@
 <Apo:qq,type=attr,msg=VIP成长值>
 <Apo:qq,type=attr,msg=VIP升级成长值>
 ~~~
-#### 玩家物品
+### 玩家物品
 ~~~
 <Apo:qq,type=drop,msg=物品>
 Tips:<Apo:qq,type=drop,msg=草药>
 ~~~
-#### 玩家装备
+### 玩家装备
 ~~~
 <Apo:qq,type=equip,msg=部位名称>
 Tips:<Apo:qq,type=equip,msg=手部>
 ~~~
-#### 系统信息
+### 系统信息
 ~~~
 <Apo:sys,type=info,msg=等级上限>
 <Apo:sys,type=info,msg=发言间隔>
@@ -62,7 +62,7 @@ Tips:<Apo:qq,type=equip,msg=手部>
 <Apo:sys,type=info,msg=接收消息>
 <Apo:sys,type=info,msg=运行时长>
 ~~~
-#### 地图信息
+### 地图信息
 ~~~
 <Apo:Map,type={地图名称},msg=前>
 <Apo:Map,type={地图名称},msg=后>
@@ -82,17 +82,17 @@ Tips:<Apo:qq,type=equip,msg=手部>
 <Apo:Map,type={地图名称},msg=物品详细>
 <Apo:Map,type={地图名称},msg=怪物详细>
 ~~~
-#### 全图信息
+### 全图信息
 ~~~
 <Apo:Map,type={Map},msg=钱庄>   // 全图钱庄
 ~~~
 
-#### 特殊变量
+### 特殊变量
 ~~~
 <Apo:at,type=obj>  // 艾特玩家(私聊无效)
 ~~~
 
-#### 职业信息
+### 职业信息
 ~~~
 <Apo:occ,type={职业名称},msg=描述>
 <Apo:occ,type={职业名称},msg=生命>
@@ -100,14 +100,14 @@ Tips:<Apo:qq,type=equip,msg=手部>
 <Apo:occ,type={职业名称},msg=攻击>
 <Apo:occ,type={职业名称},msg=防御>
 ~~~
-#### 等级信息
+### 等级信息
 ~~~
 <Apo:lv,type={等级},msg=生命>
 <Apo:lv,type={等级},msg=法力>
 <Apo:lv,type={等级},msg=攻击>
 <Apo:lv,type={等级},msg=防御>
 ~~~
-#### 自定义命令名称>
+### 自定义命令名称
 ~~~
 <Apo:sys,type=command,msg={命令序号}>	// 显示 当前命令
 <Apo:sys,type=Ocommand,msg={命令序号}>	// 显示 默认命令
