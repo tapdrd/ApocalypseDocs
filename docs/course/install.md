@@ -2,10 +2,6 @@
 
 目前支持以下机器人平台
 
-* CQ<Badge text="停止维护" type="warning"/>
-
-* QQLight<Badge text="停止维护" type="warning"/>
-
 * OnO<Badge text="可用"/>
 
 * NanBot<Badge text="可用"/>
@@ -14,13 +10,18 @@
 
 * 小栗子<Badge text="可用"/>
 
-* 先驱<Badge text="可用"/>
-
 * QQMini<Badge text="可用"/>
 
-* Cat<Badge text="可用"/>
-
 * ISky<Badge text="可用"/>
+
+
+<!-- * CQ<Badge text="停止维护" type="warning"/>
+
+* QQLight<Badge text="停止维护" type="warning"/>
+
+* 先驱<Badge text="停止维护" type="warning"/>
+
+* Cat<Badge text="停止维护" type="warning"/> -->
 
 ## 2. 下载Trdup
 
