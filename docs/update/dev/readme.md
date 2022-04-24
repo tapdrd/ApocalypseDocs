@@ -1,4 +1,4 @@
-## 2022-03-25 <Badge text="Ver:3.0.1"/>
+## 2022-03-25 <Badge text="Ver:3.2.0"/>
 ### [新增数据表]<br>
 + <数据>record_user_skill<br>
    >[user]用户<br>
