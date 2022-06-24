@@ -6,7 +6,7 @@
 
 ::: tip 版本
 正式版本: 3.2.0  
-更新日期：2022/04/24<br>
+更新日期：2022/06/24<br>
 
 ::: right
 [更新日志](../update/)
@@ -16,7 +16,7 @@
 |   Function |  Explain  |
 | --- | --- |
 |  数据储存  |  SQLite3数据库  |
-|  平台支持  |  CQ/QQLight/OnO/NanBot/Lemon/小栗子/先驱/QQMini/Cat/ISky|
+|  平台支持  |  CQ/QQLight/OnO/NanBot/Lemon/小栗子/先驱/QQMini/Cat/ISky/VLQ|
 |  最低运行要求  |  Windows Server 2012 R2 及以上|
 |  用户交流群  |  83466116|
 *****
@@ -28,22 +28,23 @@
 
 QQLight: plugin\cc.tapdrd.apocalypse\
 
-ONO：Plugin\cc.tapdrd. Apocalypse\
+ONO：Plugin\cc.tapdrd.Apocalypse\
 
-NanBot：plugin\cc.tapdrd. Apocalypse\
+NanBot：plugin\cc.tapdrd.Apocalypse\
 
-Lemon：app\cc.tapdrd. Apocalypse\
+Lemon：app\cc.tapdrd.Apocalypse\
 
 小栗子：main\data\plugin\天启幻境II\
 
-先驱：config\cc.tapdrd. Apocalypse\
+先驱：config\cc.tapdrd.Apocalypse\
 
-QQMini：config\cc.tapdrd. Apocalypse\
+QQMini：config\cc.tapdrd.Apocalypse\
 
-Cat：config\cc.tapdrd. Apocalypse\
+Cat：config\cc.tapdrd.Apocalypse\
 
-ISky: Pdata\cc.tapdrd. Apocalypse\
+ISky: Pdata\cc.tapdrd.Apocalypse\
 
+VLQ:plugin\cc.tapdrd.Apocalypse\
 :::
 
 ## 文件说明

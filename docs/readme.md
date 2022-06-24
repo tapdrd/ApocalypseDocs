@@ -7,7 +7,7 @@ actionText: 查看文档
 actionLink: /index/
 features:
 - title: 多框架支持
-  details: CQ/QQLight/OnO/NanBot/Lemon/小栗子/先驱/QQMini/Cat/ISky
+  details: CQ/QQLight/OnO/NanBot/Lemon/小栗子/先驱/QQMini/Cat/ISky/VLQ
 - title: 高效且灵活
   details: 采用本地SQLite3储存数据  支持开发拓展插件
 - title: 用户交流群
