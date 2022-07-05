@@ -69,89 +69,90 @@ var config = {
     ],
     themeConfig: {
         nav: [{
-                text: '社区',
-                link: 'http://b.tapdrd.cn'
-            }
+            text: '社区',
+            link: 'http://b.tapdrd.cn'
+        }
         ],
         sidebar: [{
-                title: '首页',
-                collapsable: false,
-                children: [
-                    ['/index/', '介绍'],
-                    ['/index/command', '指令'],
-                    ['/index/auth', '授权']
-                ]
-            },
-            {
-                title: '教程',
-                collapsable: false,
-                children: [
-                    ['/course/install', '基础安装'],
-                    ['/course/web_set', "网页设置"]
-                ]
-            },
-            {
-                title: '功能',
-                collapsable: false,
-                children: [
-                    ['/matter/', '常见问题'],
-                    ['/fun/', '功能解说'],
-                    ['/limit/', '限制消耗']
-                ]
-            },
-            {
-                title: '拓展',
-                collapsable: false,
-                children: [
-                    ['/plugin/install/', '安装'],
-                    ['/plugin/user_msg/', '开发']
-                ]
-            },
-            {
-                title: 'Web开发',
-                collapsable: false,
-                children: [
-                    ['/web/', '介绍'],
-                    ['/web/norm/', '规范']
-                ]
-            },
-            {
-                title: '变量',
-                collapsable: false,
-                children: [
-                    ['/variable/fun/', '功能'],
-                    ['/variable/global/', '全局']
-                ]
-            }, {
-                title: '图片',
-                collapsable: false,
-                children: [
-                    ['/image/', '概述'],
-                    ['/image/custom', '图片自定义绘制']
-                ]
-            },
-            {
-                title: '更新日志',
-                collapsable: false,
-                children: [
-                    ['/update/', '3.2.0'],
-                    ['/update/3.1.0', '3.1.0'],
-                    ['/update/3.0.3', '3.0.3'],
-                    ['/update/3.0.2', '3.0.2'],
-                    ['/update/3.0.1', '3.0.1'],
-                    ['/update/3.0.0', '3.0.0'],
-                    ['/update/2.1.5', '2.1.5'],
-                    ['/update/2.1.4', '2.1.4'],
-                    ['/update/2.1.3', '2.1.3'],
-                    ['/update/2.1.2', '2.1.2'],
-                    ['/update/2.1.1', '2.1.1'],
-                    ['/update/2.1.0', '2.1.0'],
-                    ['/update/2.0.3', '2.0.3'],
-                    ['/update/2.0.2', '2.0.2'],
-                    ['/update/2.0.1', '2.0.1'],
-                    ['/update/2.0.0', '2.0.0']
-                ]
-            }
+            title: '首页',
+            collapsable: false,
+            children: [
+                ['/index/', '信息'],
+                ['/index/command', '指令'],
+                ['/index/auth', '授权']
+            ]
+        },
+        {
+            title: '教程',
+            collapsable: false,
+            children: [
+                ['/course/install', '基础安装'],
+                ['/course/web_set', "网页设置"],
+                ['http://b.tapdrd.cn/list-18-1.html', "使用教程"]
+            ]
+        },
+        {
+            title: '功能',
+            collapsable: false,
+            children: [
+                ['/matter/', '常见问题'],
+                ['/fun/', '功能解说'],
+                ['/limit/', '限制消耗']
+            ]
+        },
+        {
+            title: '拓展',
+            collapsable: false,
+            children: [
+                ['/plugin/install/', '安装'],
+                ['/plugin/user_msg/', '开发']
+            ]
+        },
+        {
+            title: 'Web开发',
+            collapsable: false,
+            children: [
+                ['/web/', '介绍'],
+                ['/web/norm/', '规范']
+            ]
+        },
+        {
+            title: '变量',
+            collapsable: false,
+            children: [
+                ['/variable/fun/', '功能'],
+                ['/variable/global/', '全局']
+            ]
+        }, {
+            title: '图片',
+            collapsable: false,
+            children: [
+                ['/image/', '概述'],
+                ['/image/custom', '图片自定义绘制']
+            ]
+        },
+        {
+            title: '更新日志',
+            collapsable: false,
+            children: [
+                ['/update/', '3.2.0'],
+                ['/update/3.1.0', '3.1.0'],
+                ['/update/3.0.3', '3.0.3'],
+                ['/update/3.0.2', '3.0.2'],
+                ['/update/3.0.1', '3.0.1'],
+                ['/update/3.0.0', '3.0.0'],
+                /* ['/update/2.1.5', '2.1.5'],
+                ['/update/2.1.4', '2.1.4'],
+                ['/update/2.1.3', '2.1.3'],
+                ['/update/2.1.2', '2.1.2'],
+                ['/update/2.1.1', '2.1.1'],
+                ['/update/2.1.0', '2.1.0'],
+                ['/update/2.0.3', '2.0.3'],
+                ['/update/2.0.2', '2.0.2'],
+                ['/update/2.0.1', '2.0.1'],
+                ['/update/2.0.0', '2.0.0'] */
+            ]
+        }
         ],
         sidebarDepth: 2,
         displayAllHeaders: false, // 默认值：false 侧边栏只会显示由当前活动页面的标题组成的链接
