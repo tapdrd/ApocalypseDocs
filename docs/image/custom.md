@@ -21,13 +21,14 @@
     0. 注释
 
 ### 1. 绘制头部
-    -----[Draw]-----    // 头部
-    [Draw:head,ver=]    // 自定义绘制版本
-    [Draw:head,bd=]     // 绘制背景, 不填写则为默认, 无默认则为白色背景
-    [Draw:head,x=]      // 图片宽度, 不填则以背景图片大小为准
-    [Draw:head,y=]      // 图片高度, 不填则以背景图片大小为准
-    [Draw:head,fontn=]  // 绘制默认字体名称
-    [Draw:head,fonts=]  // 绘制默认字体大小
+    -----[Draw]-----        // 头部
+    [Draw:head,ver=]        // 自定义绘制版本
+    [Draw:head,bd=]         // 绘制背景, 不填写则为默认, 无默认则为白色背景
+    [Draw:head,x=]          // 图片宽度, 不填则以背景图片大小为准
+    [Draw:head,y=]          // 图片高度, 不填则以背景图片大小为准
+    [Draw:head,fontn=]      // 绘制默认字体名称
+    [Draw:head,fonts=]      // 绘制默认字体大小
+    [Draw:head,gif=on]      // 此绘制为GIF
     -----[End]-----     // 尾部
 
 ### 2. 绘制内容
