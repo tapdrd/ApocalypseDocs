@@ -25,7 +25,7 @@
     [Draw:head,y=]          // 图片高度, 不填则以背景图片大小为准
     [Draw:head,fontn=]      // 绘制默认字体名称
     [Draw:head,fonts=]      // 绘制默认字体大小
-    [Draw:head,gif=on]      // 此绘制为GIF
+    [Draw:head,gif=on]      // 此绘制为GIF, 不填写则为png图片
     -----[End]-----     // 尾部
 
 ### 2. 绘制内容
