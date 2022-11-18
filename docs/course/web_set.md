@@ -2,7 +2,14 @@
 
 如果你是家用电脑, 请先下载花生壳等工具, 使外网可以访问你的IP
 
+## 环境支持
+
+| ![image](https://cdn.jsdelivr.net/npm/@browser-logos/edge/edge_32x32.png) | ![image](https://cdn.jsdelivr.net/npm/@browser-logos/firefox/firefox_32x32.png) | ![image](https://cdn.jsdelivr.net/npm/@browser-logos/chrome/chrome_32x32.png) | ![image](https://cdn.jsdelivr.net/npm/@browser-logos/safari/safari_32x32.png) |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Edge ≥ 79                                                                 | Firefox ≥ 78                                                                    | Chrome ≥ 64                                                                   | Safari ≥ 12                                                                   |
+
 ## 演示
+
 ![image](../update/img/WebDemo.gif)
 
 ## 1. 进入控制台
@@ -35,7 +42,9 @@
 
 127.0.0.1: 你设置的端口号, 80端口默认是不会显示端口号的
 
-注:需要服务器开放 网页端口 和 websocket 端口, 否则会出现<font color=#FF0000 >连接服务器失败的提示</font>
+注1:需要服务器开放 网页端口 和 websocket 端口  
+注2:需要[浏览器支持](#环境支持)  
+否则会出现<font color=#FF0000 >连接服务器失败的提示</font>
 
 ## 5. 外网测试
 
