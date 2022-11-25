@@ -3,6 +3,7 @@
 ### 玩家信息
 ~~~
 <Apo:qq,type=attr,msg=qq>
+<Apo:qq,type=attr,msg=avatarUrl>
 <Apo:qq,type=attr,msg=VIP>
 <Apo:qq,type=attr,msg=昵称>
 <Apo:qq,type=attr,msg=生命>

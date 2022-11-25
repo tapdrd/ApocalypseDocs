@@ -60,6 +60,7 @@
 
     // 这里是可以放置注释
     // 该绘制是一个示例
+    [Apo:draw] // 开启部分绘制功能后, 需要用此变量才能绘制图片
     -----[Draw]-----
     [Draw:head,ver=1]
     [Draw:head,x=256]
@@ -68,7 +69,7 @@
     [Draw:head,fonts=16]
     -----[End]-----
     // 在0,0的位置 生成一个 64*64 的用户 圆头像
-    [Draw:image,x=0,y=0,type=1,recx=64,recy=64,url=http://q1.qlogo.cn/g?b=qq&nk=<Apo:qq,type=attr,msg=qq>&s=100]
+    [Draw:image,x=0,y=0,type=1,recx=64,recy=64,url=<Apo:qq,type=attr,msg=avatarUrl>]
     // 昵称显示
     [Draw:info,x=64,y=15,fonts=20,style=1]昵称：[/Draw]
     [Draw:info,x=125,y=18,color=#03A9F4]<Apo:qq,type=attr,msg=昵称>[/Draw]
