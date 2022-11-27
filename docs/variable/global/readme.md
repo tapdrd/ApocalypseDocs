@@ -3,7 +3,6 @@
 ### 玩家信息
 ~~~
 <Apo:qq,type=attr,msg=qq>
-<Apo:qq,type=attr,msg=avatarUrl>
 <Apo:qq,type=attr,msg=VIP>
 <Apo:qq,type=attr,msg=昵称>
 <Apo:qq,type=attr,msg=生命>
@@ -37,14 +36,21 @@
 <Apo:qq,type=attr,msg=VIP成长值>
 <Apo:qq,type=attr,msg=VIP升级成长值>
 ~~~
+
+### 玩家头像
+~~~
+<Apo:qq,type=attr,msg=avatarUrl>    // 当前回复消息用户的头像
+<Apo:avatar,type=user,msg={user}>   // 指定用户的头像,可以与<Apo:qq,type=attr,msg=qq>搭配使用
+~~~
+
 ### 玩家物品
 ~~~
-<Apo:qq,type=drop,msg=物品>
+<Apo:qq,type=drop,msg={物品}>
 Tips:<Apo:qq,type=drop,msg=草药>
 ~~~
 ### 玩家装备
 ~~~
-<Apo:qq,type=equip,msg=部位名称>
+<Apo:qq,type=equip,msg={部位名称}>
 Tips:<Apo:qq,type=equip,msg=手部>
 ~~~
 ### 系统信息
