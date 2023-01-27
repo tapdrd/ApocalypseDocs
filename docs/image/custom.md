@@ -69,7 +69,7 @@
     [Draw:head,fonts=16]
     -----[End]-----
     // 在0,0的位置 生成一个 64*64 的用户 圆头像
-    [Draw:image,x=0,y=0,type=1,recx=64,recy=64,url=<Apo:avatar,type=user,msg=<Apo:qq,type=attr,msg=qq>>]
+    [Draw:image,x=0,y=0,type=1,recx=64,recy=64,url=<Apo:avatar,type=user,msg=<Apo:qq,type=attr,msg=用户>>]
     // 昵称显示
     [Draw:info,x=64,y=15,fonts=20,style=1]昵称：[/Draw]
     [Draw:info,x=125,y=18,color=#03A9F4]<Apo:qq,type=attr,msg=昵称>[/Draw]

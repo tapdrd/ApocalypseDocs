@@ -2,7 +2,7 @@
 
 ### 玩家信息
 ~~~
-<Apo:qq,type=attr,msg=qq>
+<Apo:qq,type=attr,msg=用户>
 <Apo:qq,type=attr,msg=VIP>
 <Apo:qq,type=attr,msg=昵称>
 <Apo:qq,type=attr,msg=生命>
@@ -20,6 +20,7 @@
 <Apo:qq,type=attr,msg=货币>
 <Apo:qq,type=attr,msg=货币2>
 <Apo:qq,type=attr,msg=货币3>
+<Apo:qq,type=attr,msg=战斗力>
 <Apo:qq,type=attr,msg=队伍ID>
 <Apo:qq,type=attr,msg=VIP等级>
 <Apo:qq,type=attr,msg=生命上限>
@@ -35,12 +36,17 @@
 <Apo:qq,type=attr,msg=队伍名称>
 <Apo:qq,type=attr,msg=VIP成长值>
 <Apo:qq,type=attr,msg=VIP升级成长值>
+
+
+<Apo:qq,type=attr,msg=坐骑>
+<Apo:qq,type=attr,msg=战斗怪物>
+<Apo:qq,type=attr,msg=技能状态>
 ~~~
 
 ### 玩家头像
 ~~~
 <Apo:qq,type=attr,msg=avatarUrl>    // 当前回复消息用户的头像
-<Apo:avatar,type=user,msg={user}>   // 指定用户的头像,可以与<Apo:qq,type=attr,msg=qq>搭配使用
+<Apo:avatar,type=user,msg={user}>   // 指定用户的头像,可以与<Apo:qq,type=attr,msg=用户>搭配使用
 ~~~
 
 ### 玩家物品
