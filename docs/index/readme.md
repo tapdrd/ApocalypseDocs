@@ -5,9 +5,8 @@
 :::
 
 ::: tip 信息
-正式版本: 3.3.0  
-内测版本：3.4.0  
-更新日期：2022/12/04  
+正式版本: 3.4.0  
+ 
 用户交流群：83466116
 ::: right
 [更新日志](../update/)
@@ -36,18 +35,28 @@ Cat：config\cc.tapdrd.Apocalypse\
 
 ISky: Pdata\cc.tapdrd.Apocalypse\
 
-VLQ:plugin\cc.tapdrd.Apocalypse\
+VLQ: plugin\cc.tapdrd.Apocalypse\
+
+Little Android: main\data\plugin\天启幻境II
+
+QYBot: Android: main\data\plugin\天启幻境II
 :::
 
 ## 文件说明
 
 在[数据目录](#数据目录)下的文件说明
 
-config.db   -> 系统数据库(用于存放 `系统配置`
-
-game.db     -> 玩家数据库(用于存放 `玩家数据`
-
-plugin.db   -> 拓展数据库(用于存放 `拓展记录的数据`
+    [数据目录]
+    ├── backups     // 数据库备份目录
+    ├── bin         // 插件运行库
+    ├── image       // 图片存放
+    ├── plugin      // 拓展目录
+    ├── temp        // 临时目录
+    ├── temp_image  // 临时图片目录
+    ├── web         // 网页目录
+    ├── config.db   // 系统数据库(用于存放 `系统配置`
+    ├── game.db     // 玩家数据库(用于存放 `玩家数据`
+    └── plugin.db   // 拓展数据库(用于存放 `拓展记录的数据`
 
 ---
 

@@ -135,7 +135,8 @@ var config = {
             title: '更新日志',
             collapsable: false,
             children: [
-                ['/update/', '3.3.0'],
+                ['/update/', '3.4.0'],
+                ['/update/3.3.0', '3.3.0'],
                 ['/update/3.2.0', '3.2.0'],
                 ['/update/3.1.0', '3.1.0'],
                 ['/update/3.0.3', '3.0.3'],
