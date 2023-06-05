@@ -1,4 +1,4 @@
-## 1. 下载机器人框架
+<!-- ## 1. 下载机器人框架
 
 目前支持以下机器人平台
 
@@ -14,7 +14,7 @@
 
 * ISky<Badge text="可用"/>
 
-* VLQ<Badge text="可用"/>
+* VLQ<Badge text="可用"/> -->
   
 <!-- * CQ<Badge text="停止维护" type="warning"/>
 
@@ -24,7 +24,7 @@
 
 * Cat<Badge text="停止维护" type="warning"/> -->
 
-## 2. 下载Trdup
+## 下载Trdup
 
 `Trdup` 是天启幻境的插件更新器
 
@@ -34,7 +34,7 @@
 2. [交流群](https://jq.qq.com/?_wv=1027&k=uEz7FvmT)(群文件下载)
 3. [蓝奏云](https://www.lanzoux.com/b01nmqkwf)(云盘下载)
 
-## 3. 运行Trdup
+## 运行Trdup
 
 下面以 `ISky` 平台为例
 
@@ -46,13 +46,13 @@
 
 提示 `更新完毕` 点击启动
 
-## 4. 登陆机器人QQ
+## 登陆机器人QQ
 
 启用框架完毕后, 登陆机器人QQ
 
 小栗子框架如果不显示插件,需要[手动导入](#小栗子需手动导入)
 
-## 5. 启用插件
+## 启用插件
 ::: warning 提示
 先登录账号
 
@@ -66,7 +66,7 @@
 
 ![An image](./image/install/2.png)
 
-## 6. 选择数据库
+## 选择数据库
 
 点击列表可查看数据具体信息
 
@@ -77,7 +77,7 @@
 ![An image](./image/install/3.png)
 ![An image](./image/install/4.png)
 
-## 7. 安装完成
+## 安装完成
 
 插件已启用,安装完毕数据库, 接下来可以进行设置/游戏
 
