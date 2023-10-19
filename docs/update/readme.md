@@ -1,3 +1,10 @@
+## `Build.15`  <!-- 2023.10.19 -->
+
+**新增**<br>
+[自定义回复]    任务查看,变量:`<Apo:temp,type=variable,msg=发布NPC>`  
+[自定义回复]    任务查看/列表,变量:`<Apo:temp,type=variable,msg=类型2>`,`<Apo:temp,type=variable,msg=类型3>`
+
+
 ## `Build.14`  <!-- 2023.10.16 -->
 
 **修复**<br>

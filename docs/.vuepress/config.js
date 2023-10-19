@@ -68,11 +68,11 @@ var config = {
         ],
     ],
     themeConfig: {
-        nav: [{
+        /* nav: [{
             text: '社区',
             link: 'http://b.tapdrd.cn'
         }
-        ],
+        ], */
         sidebar: [{
             title: '首页',
             collapsable: false,
