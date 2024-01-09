@@ -80,13 +80,3 @@
 ## 安装完成
 
 插件已启用,安装完毕数据库, 接下来可以进行设置/游戏
-
-
-## 小栗子需手动导入
-
-1. 点击导入插件
-2. 选择`cc.tapdrd.apocalypse`
-3. 导入成功,启用插件
-![An image](./image/install/10.png)
-![An image](./image/install/11.png)
-![An image](./image/install/12.png)

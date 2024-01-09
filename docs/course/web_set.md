@@ -4,9 +4,8 @@
 
 ## 环境支持
 
-| ![image](https://cdn.jsdelivr.net/npm/@browser-logos/edge/edge_32x32.png) | ![image](https://cdn.jsdelivr.net/npm/@browser-logos/firefox/firefox_32x32.png) | ![image](https://cdn.jsdelivr.net/npm/@browser-logos/chrome/chrome_32x32.png) | ![image](https://cdn.jsdelivr.net/npm/@browser-logos/safari/safari_32x32.png) |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Edge ≥ 79                                                                 | Firefox ≥ 78                                                                    | Chrome ≥ 64                                                                   | Safari ≥ 12                                                                   |
+| Edge ≥ 79| Firefox ≥ 78  | Chrome ≥ 64| Safari ≥ 12 |
+|  ----  | ----  | ----  | ----  |
 
 ## 演示
 

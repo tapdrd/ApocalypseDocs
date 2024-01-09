@@ -88,7 +88,7 @@ var config = {
             children: [
                 ['/course/install', '基础安装'],
                 ['/course/web_set', "网页设置"],
-                ['http://b.tapdrd.cn/list-18-1.html', "使用教程"]
+                /* ['http://b.tapdrd.cn/list-18-1.html', "使用教程"] */
             ]
         },
         {
