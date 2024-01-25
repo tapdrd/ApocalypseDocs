@@ -1,1 +1,6 @@
-## 暂无alpha <Badge text="alpha"/>
+## 4.0.0 <Badge text="alpha"/>
+
+新增自定义属性
+新增自定义公式
+重写部分底层代码
+....全新体验

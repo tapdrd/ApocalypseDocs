@@ -43,6 +43,11 @@
 <Apo:qq,type=attr,msg=技能状态>
 ~~~
 
+### 自定义属性
+~~~
+<Apo:qq,type=pattr,msg={属性名}>   // 显示指定属性
+~~~
+
 ### 玩家头像
 ~~~
 <Apo:qq,type=attr,msg=avatarUrl>    // 当前回复消息用户的头像
