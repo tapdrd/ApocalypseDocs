@@ -50,8 +50,11 @@
 
 ### 玩家头像
 ~~~
-<Apo:qq,type=attr,msg=avatarUrl>    // 当前回复消息用户的头像
-<Apo:avatar,type=user,msg={user}>   // 指定用户的头像,可以与<Apo:qq,type=attr,msg=用户>搭配使用
+<Apo:qq,type=attr,msg=avatarUrl>
+// 当前回复消息用户的头像
+
+<Apo:avatar,type=user,msg={user}>
+// 指定用户的头像,可以与<Apo:qq,type=attr,msg=用户>搭配使用
 ~~~
 
 ### 玩家物品
