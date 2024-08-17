@@ -14,13 +14,15 @@ export default hopeTheme({
   iconAssets: "fontawesome-with-brands",
 
   logo: "/favicon.ico",
-
-  repo: "tapdrd/Apocalypse-Docs",
-
+  // 默认为 GitHub. 同时也可以是一个完整的 URL
+  repo: "tapdrd/Apocalypse-docs",
+  // 自定义仓库链接文字。默认从 `repo` 中自动推断为
+  // "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
+  repoLabel: "GitLab",
   docsDir: "src",
 
   // 是否在导航栏内显示仓库链接，默认为 `true`
-  repoDisplay: false,
+  repoDisplay: true,
 
   // 全屏按钮
   fullscreen: false,
