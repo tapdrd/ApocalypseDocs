@@ -14,13 +14,13 @@ export default hopeTheme({
   iconAssets: "fontawesome-with-brands",
 
   logo: "/favicon.ico",
+  docsDir: "src",
+
   // 默认为 GitHub. 同时也可以是一个完整的 URL
   repo: "https://gitlab.com/tapdrd/Apocalypse-docs",
   // 自定义仓库链接文字。默认从 `repo` 中自动推断为
   // "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
   repoLabel: "GitLab",
-  docsDir: "src",
-
   // 是否在导航栏内显示仓库链接，默认为 `true`
   repoDisplay: true,
 
@@ -49,7 +49,7 @@ export default hopeTheme({
 
   // 多语言配置
   metaLocales: {
-    editLink: "在 GitLab 上编辑此页",
+    editLink: "编辑此页",
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
