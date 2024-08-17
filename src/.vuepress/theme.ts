@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://d.tapdrd.cc/",
 
   author: {
     name: "枭",
@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/favicon.ico",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "tapdrd/Apocalypse-Docs",
 
   docsDir: "src",
 
