@@ -1,6 +1,6 @@
 ---
 title: 版本差异
-order: 100
+order: 1000
 icon: code-compare
 category:
   - 区别
