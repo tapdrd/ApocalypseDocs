@@ -1,8 +1,8 @@
 ---
 title: 常见问题
+order: 10
 icon: circle-question
 star: true
-index: false
 category:
   - 常见问题
 ---
