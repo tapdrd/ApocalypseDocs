@@ -1,6 +1,6 @@
 ---
 title: Web规范
-icon: comment-dots
+icon: glasses
 order: 40
 category:
   - 开发
