@@ -82,7 +82,7 @@ export default hopeTheme({
       },
     ], */
     shiki: {
-      lineNumbers: true,
+      lineNumbers: false,
       notationDiff: true,
       themes: {
         light: "one-light",
@@ -95,17 +95,11 @@ export default hopeTheme({
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
-      hint: true,
-      alert: true,
       align: true,
       attrs: true,
-      codetabs: true,
       component: true,
       demo: true,
-      figure: true,
       footnote: true,
-      imgLazyload: true,
-      imgSize: true,
       include: true,
       mark: true,
       plantuml: true,
@@ -125,7 +119,6 @@ export default hopeTheme({
       ],
       sub: true,
       sup: true,
-      tabs: true,
       tasklist: true,
       vPre: true,
 

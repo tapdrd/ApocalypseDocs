@@ -46,4 +46,7 @@ export default sidebar({
   "/guide/": "structure",
   "/faq/": "structure",
   "/dev/": "structure",
+  "/": [
+    "changelog",
+  ]
 });

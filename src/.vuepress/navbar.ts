@@ -7,6 +7,7 @@ export default navbar([
   "/guide/", 
   "/faq/",
   "/dev/",
+  "/changelog"
   /* {
     text: "指南",
     icon: "lightbulb",
