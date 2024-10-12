@@ -50,7 +50,11 @@ tag:
 <Apo:qq,type=attr,msg=坐骑>
 <Apo:qq,type=attr,msg=战斗怪物>
 <Apo:qq,type=attr,msg=技能状态>
+
+
+<Apo:qq,type=attr,msg=盒子消息>
 ~~~
+
 
 ### 自定义属性
 ~~~
