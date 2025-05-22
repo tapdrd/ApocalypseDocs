@@ -12,7 +12,7 @@ tag:
 
 * * * * *
 
-~~~Textile :line-numbers
+~~~ :line-numbers
 注册
 签到
 攻击
